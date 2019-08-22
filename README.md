@@ -1,4 +1,4 @@
-# Data Analysis on Whether Underperforming Coaches are More Likely to be Fired in College Basketball
+# Data Analysis on Underperforming Coaches and their firing rates in College Basketball
 By Tony Rosler, Aaron Cronin and Thomas Hurtubise
 
 Turnover at the head of college athletics teams is an interesting phenomenon.
